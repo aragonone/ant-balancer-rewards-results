@@ -4,8 +4,8 @@ Results of [scripts](https://github.com/aragonone/ant-balancer-rewards) to calcu
 
 ## Results
 
-| Period                       | Start Block | End Block |
-| :-----                       | ----------: | --------: |
-| [1](/reports/1/_totals.json) | 10730260    | 10775960  |
-| [2](/reports/2/_totals.json) | 10775960    | 10821677  |
-| 3                            | 10821677    |           |
+| Period               | Start Block | End Block |
+| :-----               | ----------: | --------: |
+| [1](/1/_totals.json) | 10730260    | 10775960  |
+| [2](/2/_totals.json) | 10775960    | 10821677  |
+| 3                    | 10821677    |           |
